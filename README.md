@@ -1,43 +1,68 @@
-# Hi there, I'm Minh Quý 👋
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mqY1245) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mqn.054) 
-
----
-
-## 🛠 Kỹ năng
-
-### 💻 Ngôn ngữ lập trình
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/PYTHON-3776ab?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/DJANGO-092e20?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO--REST-ff1709?style=flat-square&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/LARAVEL-ff2d20?style=flat-square&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white)
-
-### 🎨 Frontend
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-8511fa?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/CHART.JS-f5788d?style=flat-square&logo=chart.js&logoColor=white)
-
-### 🛡 Backend & Database
-![MySQL](https://img.shields.io/badge/MYSQL-4479a1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRES-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/REDIS-dc382d?style=flat-square&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/SOCKET.IO-010101?style=flat-square&logo=socket.io)
-
-### 🤖 Data Science
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
-
-### ☁️ Deployment
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/RENDER-46e3b7?style=flat-square&logo=render&logoColor=white)
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mqY1245) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mqn.054) 
 
 ---
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhQuy54&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuy54&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-</p>
+# 💻 Tech Stack
 
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MinhQuy54&theme=dark&hide_border=false" />
-</p>
+## 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MinhQuy54&icon=0&color=0" />
-</p>
+
+## ⚙️ Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+---
+
+## 🗄️ Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🤖 Machine Learning / Deep Learning
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+---
+
+## 🛠️ Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MinhQuy54&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MinhQuy54&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuy54&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=MinhQuy54&icon=0&color=0)](https://visitcount.itsvg.in)
