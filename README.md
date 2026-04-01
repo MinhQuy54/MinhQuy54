@@ -3,10 +3,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mqn.054) 
 
 ---
+## 👨‍💻 About Me
+
+Hi, I'm Minh Quý — a passionate Software Developer from Vietnam 🇻🇳.  
+I have a strong interest in building scalable backend systems and exploring AI/ML applications.
+
+🔹 My main focus is **Backend Development** and **AI Development**  
+🔹 I enjoy working with APIs, databases, and system architecture  
+🔹 Currently improving my skills in Machine Learning and real-world system design  
+🔹 I love turning ideas into real products that solve practical problems  
+
+🚀 Goal: Become a professional Backend / AI Developer and contribute to impactful projects.
 
 # 💻 Tech Stack
 
-## 🎨 Frontend
+## Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -16,7 +27,7 @@
 
 ---
 
-## ⚙️ Backend
+## Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -29,7 +40,7 @@
 
 ---
 
-## 🗄️ Database
+## Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -37,7 +48,7 @@
 
 ---
 
-## ☁️ DevOps & Cloud
+##  DevOps & Cloud
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -45,7 +56,7 @@
 
 ---
 
-## 🤖 Machine Learning / Deep Learning
+## Machine Learning / Deep Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -53,17 +64,17 @@
 
 ---
 
-## 🛠️ Tools
+## Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MinhQuy54&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MinhQuy54&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuy54&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🐍 Contribution Snake
+## Contribution Snake
 ![snake gif](https://github.com/MinhQuy54/MinhQuy54/blob/output/github-contribution-grid-snake.svg)
 [![](https://visitcount.itsvg.in/api?id=MinhQuy54&icon=0&color=0)](https://visitcount.itsvg.in)
