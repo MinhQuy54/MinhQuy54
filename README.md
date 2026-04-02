@@ -14,6 +14,7 @@ I have a strong interest in building scalable backend systems and exploring AI/M
 🔹 I love turning ideas into real products that solve practical problems  
 
 🚀 Goal: Become a professional Backend / AI Developer and contribute to impactful projects.
+[![](https://visitcount.itsvg.in/api?id=MinhQuy54&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack
 
