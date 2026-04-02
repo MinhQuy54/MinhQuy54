@@ -62,6 +62,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx)
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws)
+![Render](https://img.shields.io/badge/Render-Deploy-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman)
 
