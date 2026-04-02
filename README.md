@@ -1,15 +1,18 @@
 # 👋 Hi, I'm Minh Quý  
 
-🚀 Backend Developer | AI Enthusiast | Final-year Student from Vietnam 🇻🇳  
+Backend Developer | AI Enthusiast | Final-year Student from Vietnam 🇻🇳  
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Focus: **Backend Development & AI Systems**
-- 🧠 Interested in: APIs, Databases, System Design, Machine Learning
-- ⚡ Currently learning: **Machine Learning, Real-world system architecture**
-- 💡 Passion: Turning ideas into real-world products  
-- 🚀 Goal: Become a **Professional Backend / AI Engineer**
+I have a strong interest in building scalable backend systems and exploring AI/ML applications.
+🔹 My main focus is **Backend Development** and **AI Development**  
+🔹 I enjoy working with APIs, databases, and system architecture  
+🔹 Currently improving my skills in Machine Learning and real-world system design  
+🔹 I love turning ideas into real products that solve practical problems  
+
+🚀 Goal: Become a professional Backend / AI Developer and contribute to impactful projects.
+
 
 ---
 
