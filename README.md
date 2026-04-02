@@ -29,6 +29,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 ![Django REST](https://img.shields.io/badge/django--rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
