@@ -5,7 +5,6 @@ Backend Developer | AI Enthusiast | Final-year Student from Vietnam 🇻🇳
 ---
 
 ## 👨‍💻 About Me
-I have a strong interest in building scalable backend systems and exploring AI/ML applications.
 🔹 My main focus is **Backend Development** and **AI Development**  
 🔹 I enjoy working with APIs, databases, and system architecture  
 🔹 Currently improving my skills in Machine Learning and real-world system design  
