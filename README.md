@@ -1,81 +1,85 @@
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mqY1245) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mqn.054) 
+# 👋 Hi, I'm Minh Quý  
+
+🚀 Backend Developer | AI Enthusiast | Final-year Student from Vietnam 🇻🇳  
 
 ---
+
 ## 👨‍💻 About Me
-
-Hi, I'm Minh Quý — a passionate Software Developer from Vietnam 🇻🇳.  
-I have a strong interest in building scalable backend systems and exploring AI/ML applications.
-
-🔹 My main focus is **Backend Development** and **AI Development**  
-🔹 I enjoy working with APIs, databases, and system architecture  
-🔹 Currently improving my skills in Machine Learning and real-world system design  
-🔹 I love turning ideas into real products that solve practical problems  
-
-🚀 Goal: Become a professional Backend / AI Developer and contribute to impactful projects.
-[![](https://visitcount.itsvg.in/api?id=MinhQuy54&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# 💻 Tech Stack
-
-## Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+- 🎯 Focus: **Backend Development & AI Systems**
+- 🧠 Interested in: APIs, Databases, System Design, Machine Learning
+- ⚡ Currently learning: **Machine Learning, Real-world system architecture**
+- 💡 Passion: Turning ideas into real-world products  
+- 🚀 Goal: Become a **Professional Backend / AI Engineer**
 
 ---
 
-## Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+## 🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mqY1245)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mqn.054)
 
 ---
 
-## Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+## 💻 Tech Stack
+
+### 🚀 Backend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/django--rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
-##  DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## Machine Learning / Deep Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis)
 
 ---
 
-## Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🤖 AI / Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ---
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MinhQuy54&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MinhQuy54&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuy54&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx)
+![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
-## Contribution Snake
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MinhQuy54&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MinhQuy54&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuy54&theme=radical&layout=compact&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
 ![snake gif](https://github.com/MinhQuy54/MinhQuy54/blob/output/github-contribution-grid-snake.svg)
-[![](https://visitcount.itsvg.in/api?id=MinhQuy54&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=MinhQuy54&label=Profile%20Views&color=blue&style=flat)
+
+---
+
+## 💡 Quote
+> “Code is not just about solving problems, it's about creating impact.”
