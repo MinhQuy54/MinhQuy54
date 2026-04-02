@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Minh Quý  
 
-Backend Developer | AI Enthusiast | Final-year Student from Vietnam 🇻🇳  
+I specialize in building scalable backend systems and exploring AI/ML solutions for real-world applications.
 
 ---
 
