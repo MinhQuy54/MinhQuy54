@@ -56,7 +56,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 
 ---
 
-### ⚡ Backend / System & Data Tools (NEW)
+### ⚡ Backend / System & Data Tools
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MinIO](https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
