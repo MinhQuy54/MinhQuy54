@@ -1,27 +1,22 @@
-# 👋 Hi, I'm Minh Quý  
+# Hi, I'm Minh Quý  
 
 I specialize in building scalable backend systems and exploring AI/ML solutions for real-world applications.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 🔹 My main focus is **Backend Development** and **AI Development**  
 🔹 I enjoy working with APIs, databases, and system architecture  
 🔹 Currently improving my skills in Machine Learning and real-world system design  
 🔹 I love turning ideas into real products that solve practical problems  
 
-🚀 Goal: Become a professional Backend / AI Developer and contribute to impactful projects.
+Goal: Become a professional Backend / AI Developer and contribute to impactful projects.
 
 ---
 
-## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mqn1245)
+## Tech Stack
 
----
-
-## 💻 Tech Stack
-
-### 🚀 Backend
+### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/django--rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -32,7 +27,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 
 ---
 
-### 🎨 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -40,7 +35,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 
 ---
 
-### 🗄️ Database
+### Database
 ![MySQL](https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite)
@@ -48,7 +43,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 
 ---
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -56,7 +51,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 
 ---
 
-### ⚡ Backend / System & Data Tools
+### Backend / System & Data Tools
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MinIO](https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -65,7 +60,7 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 
 ---
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx)
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws)
@@ -75,14 +70,14 @@ I specialize in building scalable backend systems and exploring AI/ML solutions 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MinhQuy54&theme=radical&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MinhQuy54&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuy54&theme=radical&layout=compact&hide_border=true)
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 ![snake gif](https://github.com/MinhQuy54/MinhQuy54/blob/output/github-contribution-grid-snake.svg)
 
 ---
