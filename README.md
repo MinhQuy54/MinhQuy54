@@ -8,7 +8,7 @@ I specialize in building scalable, distributed backend systems (gRPC microservic
 **Focus:** Backend Engineering, Microservices Architecture & AI Systems Integration  
 **Background:** Computer Science Senior at Saigon Technology University (STU) with practical experience in building high-conformance APIs and real-time architectures  
 **Experience:** Hands-on experience developing distributed pipelines, transactional database designs, Saga orchestration, dynamic RBAC, and AI-driven applications (RAG Chatbots, SDXL generation)  
-**Goal:** Become a Senior Backend / AI Systems Engineer, contributing to high-performance, robust, and impactful engineering systems  
+**Goal:** Become a Senior Fullstack Engineer, contributing to high-performance, robust, and impactful engineering systems  
 
 ---
 
