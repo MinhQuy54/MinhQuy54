@@ -7,7 +7,7 @@ I specialize in building scalable, distributed backend systems (gRPC microservic
 ## About Me
 **Focus:** Backend Engineering, Microservices Architecture & AI Systems Integration  
 **Background:** Computer Science Senior at Saigon Technology University (STU) with practical experience in building high-conformance APIs and real-time architectures  
-**Experience:** Hands-on experience developing distributed pipelines, transactional database designs, Saga orchestration, dynamic RBAC, and AI-driven applications (RAG Chatbots, SDXL generation)  
+**Experience:** Hands-on experience developing distributed pipelines, transactional database designs, Saga orchestration, dynamic RBAC, and AI-driven applications
 **Goal:** Become a Senior Fullstack Engineer, contributing to high-performance, robust, and impactful engineering systems  
 
 ---
@@ -53,13 +53,6 @@ I specialize in building scalable, distributed backend systems (gRPC microservic
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Featured Projects
-- **ComicSystem AI Comic Generation System:** Microservices comic generation platform (NestJS API Gateway, Saga Coordinator, gRPC, Celery worker with SDXL).
-- **Plagiarism Detection Service:** 5-stage plagiarism retrieval & verification system built on gRPC microservices with Elasticsearch and MinIO.
-- **Veggie Shop E-Commerce System:** E-commerce platform with dynamic authorization, WebSockets, RAG Chatbot (FastAPI + Qdrant + Gemini AI), and shipping integration.
 
 ---
 
