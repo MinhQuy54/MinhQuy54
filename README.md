@@ -1,4 +1,4 @@
-# Hi, I'm Ngô Minh Quý 👋
+# Hi, I'm Ngô Minh Quý
 
 I specialize in building scalable, distributed backend systems (gRPC microservices, asynchronous task queues, transactional databases) and integrating AI/ML solutions into real-world applications.
 
